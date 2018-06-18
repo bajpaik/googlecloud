@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_rb_op_impl_param">
+    <sn_cmp_rb_op_impl_param action="INSERT_OR_UPDATE">
+        <applicable_to/>
+        <datasource>1</datasource>
+        <datasourcevalue/>
+        <defaultvalue>${parameter.CloudAccount}</defaultvalue>
+        <error_text/>
+        <help_text/>
+        <host/>
+        <ismandatory>false</ismandatory>
+        <name>CloudAccount</name>
+        <operation display_value="Delete VLAN">3fbdb6495bba13007e66273a41f91a11</operation>
+        <order/>
+        <read_only>false</read_only>
+        <regex/>
+        <sys_class_name>sn_cmp_rb_op_impl_param</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-18 07:40:36</sys_created_on>
+        <sys_id>b7bdb6495bba13007e66273a41f91a19</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CloudAccount</sys_name>
+        <sys_package display_value="Google Cloud" source="sn_google_cloud">dddec1c55b7a13007e66273a41f91aff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud">dddec1c55b7a13007e66273a41f91aff</sys_scope>
+        <sys_update_name>sn_cmp_rb_op_impl_param_b7bdb6495bba13007e66273a41f91a19</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-18 07:40:36</sys_updated_on>
+        <ui_data_type/>
+        <value/>
+        <visibilty>false</visibilty>
+    </sn_cmp_rb_op_impl_param>
+</record_update>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_bp_catalog_prop">
+    <sn_cmp_bp_catalog_prop action="INSERT_OR_UPDATE">
+        <bp_cat_form_behavior display_value="Google Compute">3a2476455bba13007e66273a41f91a72</bp_cat_form_behavior>
+        <datasource>2</datasource>
+        <default_value/>
+        <display_name>Stack Name</display_name>
+        <display_order>143</display_order>
+        <error_text>cannot exceed 100 characters</error_text>
+        <form_ui_group display_value="General Info">032476455bba13007e66273a41f91a84</form_ui_group>
+        <global_prop display_value="StackName">71a3fe055bba13007e66273a41f91a83</global_prop>
+        <help_text/>
+        <mandatory>true</mandatory>
+        <name>StackName</name>
+        <parameter_type>1</parameter_type>
+        <policy/>
+        <read_only>false</read_only>
+        <regex>^.{0,100}$</regex>
+        <sys_class_name>sn_cmp_bp_catalog_prop</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-18 06:58:47</sys_created_on>
+        <sys_id>df2476455bba13007e66273a41f91a9e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>StackName</sys_name>
+        <sys_package display_value="Google Cloud" source="sn_google_cloud">dddec1c55b7a13007e66273a41f91aff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud">dddec1c55b7a13007e66273a41f91aff</sys_scope>
+        <sys_update_name>sn_cmp_bp_catalog_prop_df2476455bba13007e66273a41f91a9e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-18 06:58:47</sys_updated_on>
+        <ui_data_type>9</ui_data_type>
+        <unique_id>5151</unique_id>
+        <visibility>true</visibility>
+    </sn_cmp_bp_catalog_prop>
+</record_update>

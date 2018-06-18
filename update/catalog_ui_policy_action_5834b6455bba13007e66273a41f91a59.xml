@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Google Compute">3324b6455bba13007e66273a41f91a38</catalog_item>
+        <catalog_variable>IO:8834b6455bba13007e66273a41f91a4e</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>false</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-18 06:58:52</sys_created_on>
+        <sys_id>5834b6455bba13007e66273a41f91a59</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cloudTaskWorkflowInput</sys_name>
+        <sys_package display_value="Google Cloud" source="sn_google_cloud">dddec1c55b7a13007e66273a41f91aff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud">dddec1c55b7a13007e66273a41f91aff</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_5834b6455bba13007e66273a41f91a59</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-18 06:58:52</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Google Compute UI policy">d834b6455bba13007e66273a41f91a56</ui_policy>
+        <variable>cloudTaskWorkflowInput</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+</record_update>

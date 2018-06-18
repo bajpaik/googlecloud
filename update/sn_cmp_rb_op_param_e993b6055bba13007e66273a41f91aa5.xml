@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_rb_op_param">
+    <sn_cmp_rb_op_param action="INSERT_OR_UPDATE">
+        <interface display_value="Google Compute Resource Interface">ec9376055bba13007e66273a41f91acb</interface>
+        <name>UserGroup</name>
+        <operation display_value="Provision">b49376055bba13007e66273a41f91adc</operation>
+        <order>50</order>
+        <sys_class_name>sn_cmp_rb_op_param</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-18 06:56:13</sys_created_on>
+        <sys_id>e993b6055bba13007e66273a41f91aa5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>UserGroup</sys_name>
+        <sys_package display_value="Google Cloud" source="sn_google_cloud">dddec1c55b7a13007e66273a41f91aff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud">dddec1c55b7a13007e66273a41f91aff</sys_scope>
+        <sys_update_name>sn_cmp_rb_op_param_e993b6055bba13007e66273a41f91aa5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-18 06:56:13</sys_updated_on>
+        <type>1</type>
+    </sn_cmp_rb_op_param>
+</record_update>

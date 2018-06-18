@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="ecc_agent_script_include">
+    <ecc_agent_script_include action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Script for CAPI - Google Compute Platform API.ListCustomizationSpecs</description>
+        <name>google-compute-1.0-ListCustomizationSpec</name>
+        <script/>
+        <sys_class_name>ecc_agent_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-18 06:39:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e8dfa2415bba13007e66273a41f91a9a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>google-compute-1.0-ListCustomizationSpec</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Google Cloud" source="sn_google_cloud">dddec1c55b7a13007e66273a41f91aff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Google Cloud">dddec1c55b7a13007e66273a41f91aff</sys_scope>
+        <sys_update_name>ecc_agent_script_include_e8dfa2415bba13007e66273a41f91a9a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-18 06:39:46</sys_updated_on>
+    </ecc_agent_script_include>
+</record_update>
